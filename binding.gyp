@@ -10,8 +10,8 @@
 			"target_name": "medooze-media-server",
 			"cflags": 
 			[
-				"-march=corei7",
-				"-mtune=corei7",
+				"-march=native",
+				"-mtune=native",
 				"-fexceptions",
 				"-O3",
 				"-g",
